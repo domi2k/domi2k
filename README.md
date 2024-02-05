@@ -12,6 +12,7 @@
   <a href="discordapp.com/users/329876941631127554"><img src="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=black"/></a>&nbsp;
   <a href=""><img src="https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=black"/></a>&nbsp;
 </p>
+<br>
 
 <p align="center"><i>“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”</i></p>
 <p align="center"><i>~  Carl Sagan  ~</i></p>
