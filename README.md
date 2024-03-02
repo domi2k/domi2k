@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://cdn.discordapp.com/attachments/398905813860876300/1203821725326778378/avatar_transparent_out_bbbbbbb.png?ex=65d27d59&is=65c00859&hm=8dd0ae9a21475ba419a2222ba3da953a4dbf6a6db0cf5b367683821e29d06572&">
+<img align="left" width="400" src="https://cdn.discordapp.com/attachments/398905813860876300/1213283147324850246/avatar_transparent_out_bbbbbbb.png?ex=65f4e8fc&is=65e273fc&hm=4e3fbe9113a34ca228986b228e390fb7302f3aa190a7ca20d939c0d43cbcdc3d&">
 <br><br><br><br><br><br>
 
 <h1 align="center">Hi, I'm Dominic</h1>
@@ -17,5 +17,5 @@
 <p align="center"><i>“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”</i></p>
 <p align="center"><i>~  Carl Sagan  ~</i></p>
 
-<img src="https://cdn.discordapp.com/attachments/398905813860876300/1203788928759365712/adasd.png?ex=65d25ecd&is=65bfe9cd&hm=49b2f9afbe0f0c53687708ef945a84a49d6c9e81e679fcfc9fc5a0160013cbd3&">
+<img src="https://cdn.discordapp.com/attachments/398905813860876300/1213283471800139826/adasd.png?ex=65f4e949&is=65e27449&hm=833c88081c9a8602093d73f818672a9236579662ffd79ac3f3f0634c39156ecb&">
 <p align="center">　　　　◇　　　　.　　　　。　　　　.　　　　See you next time :)　　　　◇　　　　.　　　　◇　　　　。　　　　</p>
