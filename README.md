@@ -16,13 +16,17 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"/>
-  </picture></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/domi2k"><img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"/></a>&nbsp;
-  <a href="https://discordapp.com/users/329876941631127554"><img src="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=black"/></a>&nbsp;
-  <a href=""><img src="https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=black"/></a>&nbsp;
+  </picture></a>&nbsp;
+  <a href="https://discordapp.com/users/329876941631127554"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=black">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=white">
+    <img src="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=black"/>
+  </picture></a>&nbsp;
+  <a href=""><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=black">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=black"/>
+  </picture></a>&nbsp;
 </p>
 <br>
 
