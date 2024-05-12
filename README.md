@@ -1,5 +1,7 @@
-<img align="left" src="https://github.com/domi2k/domi2k/blob/main/avatar_dark.png#gh-light-mode-only" width="400"/>
-<img align="left" src="https://github.com/domi2k/domi2k/blob/main/avatar_light.png#gh-dark-mode-only" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" align="left" srcset="https://github.com/domi2k/domi2k/blob/main/avatar_light.png" width="400">
+  <source media="(prefers-color-scheme: light)" align="left" srcset="https://github.com/domi2k/domi2k/blob/main/avatar_dark.png" width="400">
+</picture>
 <br><br><br><br><br><br>
 
 <h1 align="center">Hi, I'm Dominic</h1>
