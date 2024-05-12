@@ -21,6 +21,9 @@
 <p align="center"><i>“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”</i></p>
 <p align="center"><i>~  Carl Sagan  ~</i></p>
 
-<img src="https://github.com/domi2k/domi2k/blob/main/footer_dark.png#gh-light-mode-only"/>
-<img src="https://github.com/domi2k/domi2k/blob/main/footer_light.png#gh-dark-mode-only"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/domi2k/domi2k/blob/main/footer_light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/domi2k/domi2k/blob/main/footer_dark.png">
+  <img alt="Footer_background" scr="https://github.com/domi2k/domi2k/blob/main/footer_light.png">
+</picture>
 <p align="center">　　　　◇　　　　.　　　　。　　　　.　　　　See you next time :)　　　　◇　　　　.　　　　◇　　　　。　　　　</p>
