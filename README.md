@@ -12,6 +12,14 @@
 <br>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" href="https://github.com/domi2k" srcset="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black">
+    <source media="(prefers-color-scheme: light)" href="https://github.com/domi2k" srcset="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white">
+    <a href="https://github.com/domi2k"><img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"/></a>
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/domi2k"><img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"/></a>&nbsp;
   <a href="https://discordapp.com/users/329876941631127554"><img src="https://img.shields.io/badge/-Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=black"/></a>&nbsp;
   <a href=""><img src="https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=black"/></a>&nbsp;
