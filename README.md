@@ -1,4 +1,7 @@
-<img align="left" width="400" src="https://github.com/domi2k/domi2k/blob/main/avatar.png">
+<p align="left">
+    <img src="https://github.com/domi2k/domi2k/blob/main/avatar_dark.png#gh-light-mode-only" height="400" width="400"/>
+    <img src="https://github.com/domi2k/domi2k/blob/main/avatar_light.png#gh-dark-mode-only" height="400" width="400"/>
+</p>
 <br><br><br><br><br><br>
 
 <h1 align="center">Hi, I'm Dominic</h1>
@@ -17,5 +20,9 @@
 <p align="center"><i>“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”</i></p>
 <p align="center"><i>~  Carl Sagan  ~</i></p>
 
-<img src="https://github.com/domi2k/domi2k/blob/main/footer.png">
+<p align="center">
+    <img src="https://github.com/domi2k/domi2k/blob/main/footer_dark.png#gh-light-mode-only" height="400" width="400"/>
+    <img src="https://github.com/domi2k/domi2k/blob/main/footer_light.png#gh-dark-mode-only" height="400" width="400"/>
+  　　　　◇　　　　.　　　　。　　　　.　　　　See you next time :)　　　　◇　　　　.　　　　◇　　　　。　　　　
+</p>
 <p align="center">　　　　◇　　　　.　　　　。　　　　.　　　　See you next time :)　　　　◇　　　　.　　　　◇　　　　。　　　　</p>
