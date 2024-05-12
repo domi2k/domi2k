@@ -13,9 +13,10 @@
 
 <p align="center">
   <picture>
+    <a href="https://github.com/domi2k">
     <source media="(prefers-color-scheme: dark)" href="https://github.com/domi2k" srcset="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black">
     <source media="(prefers-color-scheme: light)" href="https://github.com/domi2k" srcset="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white">
-    <a href="https://github.com/domi2k"><img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"/></a>
+    <img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"/></a>
   </picture>
 </p>
 
