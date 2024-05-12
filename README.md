@@ -1,6 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" align="left" srcset="https://github.com/domi2k/domi2k/blob/main/avatar_light.png" width="400">
   <source media="(prefers-color-scheme: light)" align="left" srcset="https://github.com/domi2k/domi2k/blob/main/avatar_dark.png" width="400">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 <br><br><br><br><br><br>
 
