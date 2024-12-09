@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Dominic</h1>
 <br>
 
-<p align="center">I am a 20-year-old student at AGH in Cracow. I have recently become interested in programming. I am currently learning Python and other things related to Data Science and Machine Learning.</p>
+<p align="center">I'm a 20-year-old student at AGH in Cracow. I've recently become interested in programming and currently learning Python and other things related to Data Science and Machine Learning.</p>
 <br>
 
 <p align="center">
